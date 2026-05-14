@@ -1,5 +1,5 @@
 #  About Me:
-🚀 2nd Year B.Tech CSE student at ITER SOA University  <br>💻 Interested in DevOps, Cloud Engineering, and Backend Development  <br>🌱 Currently learning Django, Git/GitHub, Linux, and Docker  <br>⚡ Building projects and improving problem-solving skills
+🚀 2nd Year B.Tech CSE student at ITER SOA University  <br>💻 Interested in DevOps, Cloud Engineering, and Backend Development  <br>🌱 Currently learning Django  <br>⚡ Building projects and improving problem-solving skills
 
 
 ## 🌐 Socials:
