@@ -1,18 +1,61 @@
-#  About Me:
-🚀 2nd Year B.Tech CSE student at ITER, SOA University  <br>💻 Interested in DevOps, Cloud Engineering, and Backend Development  <br>🌱 Currently learning Django  <br>⚡ Learning & Building projects and improving problem-solving skills
+# Hey, I'm Prince Biswal 👋
 
+**CSE Student • Backend Developer • Tech Enthusiast**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/peanutbutter.in) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-biswal-960042296/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:biswalprince1@gmail.com) 
+I enjoy building things, figuring out why they break, and learning by actually getting my hands dirty.
 
-# 💻 Tech Stack:
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=biswalprince&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=biswalprince&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=biswalprince&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm particularly interested in **backend development, software engineering, and DevOps** — with a preference for practical projects over endless tutorials.
 
 ---
-[![](https://komarev.com/ghpvc/?username=biswalprince&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛠️ Skills & Tools
+
+**Languages**
+`Python` · `Java` · `C` · `SQL`
+
+**Backend**
+`Django` · `Django REST Framework`
+
+**Frontend**
+`HTML` · `CSS` · `Bootstrap`
+
+**DevOps & Tools**
+`Git` · `GitHub` · `Linux` · `Docker`
+
+**Databases**
+`SQLite` · `PostgreSQL`
+
+**Other**
+`REST APIs` · `OAuth` · `GitHub Actions`
+
+---
+
+### 💻 What you'll find here
+
+Projects, experiments, college work, things I've built while learning, and probably a few repositories where I broke something and eventually figured it out.
+
+---
+
+### 🌐 Connect with me
+
+<p align="left">
+  <a href="https://github.com/biswalprince">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/prince-biswal-960042296/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/biswalprince1">
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/peanutbutter.in/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Build it. Break it. Understand it.</i>
+</p>
+
